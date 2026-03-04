@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Micah DevOps Project</title>
+</head>
+
+<body>
+<h1>Hello from AWS S3 🚀</h1>
+<p>This website is hosted using Amazon S3.</p>
+</body>
+
+</html>
